@@ -96,14 +96,9 @@ El criterio más importante al elegir un delimitador es que **no aparezca en los
 - [Microsoft Docs – Entity Framework Core Fluent API](https://learn.microsoft.com/en-us/ef/core/modeling/)
 - [Microsoft Docs – System.IO Namespace](https://learn.microsoft.com/en-us/dotnet/api/system.io)
 - [StackOverflow: Reading CSV with quotes in C#](https://stackoverflow.com/questions/13418412)
-- **ChatGPT (OpenAI GPT-5)** – Asistente IA utilizado para la generación del código, documentación y formato del proyecto.
+- **ChatGPT (OpenAI GPT-5)** – Asistente IA utilizado para la documentación y formato del proyecto. https://chatgpt.com/share/6912b3e1-d25c-800b-b123-05803f09cee1
 - [SQLite Documentation](https://www.sqlite.org/docs.html)
 - [Microsoft Learn – Working with CSV and TSV Files](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-a-text-file)
-
-
-
-
-
 
 
 
